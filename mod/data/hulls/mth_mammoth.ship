@@ -106,15 +106,15 @@
         }
     ],
     "height": 66,
-    "hullId": "kite",
-    "hullName": "Kite",
+    "hullId": "mth_mammoth",
+    "hullName": "Mammoth",
     "hullSize": "FRIGATE",
     "shieldCenter": [
         0,
         0
     ],
     "shieldRadius": 58,
-    "spriteName": "graphics/ships/aeroshuttle/aeroshuttle_base.png",
+    "spriteName": "graphics/ships/mth_mammoth.png",
     "style": "MIDLINE",
     "viewOffset": 0,
     "weaponSlots": [
