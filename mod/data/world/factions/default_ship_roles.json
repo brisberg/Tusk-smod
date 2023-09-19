@@ -1,8 +1,5 @@
 {
-	"combatSmallForSmallFleet":{
-		"mth_mammoth_Standard":9999
-	},
-	"combatSmall":{
+	"combatCapital":{
 		"mth_mammoth_Standard":9999
 	}
 }

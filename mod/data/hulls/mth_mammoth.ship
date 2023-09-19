@@ -108,7 +108,7 @@
     "height": 66,
     "hullId": "mth_mammoth",
     "hullName": "Mammoth",
-    "hullSize": "FRIGATE",
+    "hullSize": "CAPITAL_SHIP",
     "shieldCenter": [
         0,
         0
