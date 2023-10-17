@@ -3,25 +3,25 @@
 	# multiplier for how often hulls show up in the faction's fleets
 	"hullFrequency":{
 		"hulls":{
-			"mth_mammoth":9999,
+			"tsk_tusk":9999,
 		},
 	},
 	# ships the faction gets access to when importing S&W out-of-faction
 	"shipsWhenImporting":{
 		"hulls":[
-			"mth_mammoth",
+			"tsk_tusk",
 		],
 	},
 	"knownShips":{
 		"hulls":[
-			"mth_mammoth",
+			"tsk_tusk",
 		],
 	},
 	# listing ships here will make the faction mostly use them even if other hulls become available
 	"priorityShips":{
 		"tags":[],
 		"hulls":[
-			"mth_mammoth",
+			"tsk_tusk",
 		],
 	},
 }

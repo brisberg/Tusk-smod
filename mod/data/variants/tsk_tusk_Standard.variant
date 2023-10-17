@@ -3,11 +3,11 @@
     "fluxCapacitors": 0,
     "fluxVents": 0,
     "goalVariant": true,
-    "hullId": "mth_mammoth",
+    "hullId": "tsk_tusk",
     "hullMods": [],
     "permaMods": [],
     "quality": 0.5,
-    "variantId": "mth_mammoth_Standard",
+    "variantId": "tsk_tusk_Standard",
     "weaponGroups": [
         {
             "autofire": false,
