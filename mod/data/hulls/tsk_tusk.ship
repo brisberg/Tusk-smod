@@ -72,7 +72,7 @@
         0
     ],
     "shieldRadius": 330,
-    "spriteName": "graphics/ships/module_large1_lowtech.png",
+    "spriteName": "graphics/ships/tsk_tusk.png",
     "style": "LOW_TECH",
     "viewOffset": 0,
     "weaponSlots": [
